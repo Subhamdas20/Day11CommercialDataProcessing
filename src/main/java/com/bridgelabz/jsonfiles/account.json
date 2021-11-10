@@ -1,1 +1,2 @@
-{"balance":10400,"name":"Subham Das","id":"zt67frs","stock":[{"symbol":"hul","quantity":49,"price":2420,"name":"Hindunilvr","value":121000},{"symbol":"ril","quantity":19,"price":2460,"name":"reliance","value":49200}]}
+{"balance":80000,"name":"Subham Das","id":"zt67frs","stock":[{"symbol":"hul","quantity":49,"price":2420,"name":"Hindunilvr","value":121000},{"symbol":"ril","quantity":19,"price":2460,"name":"reliance","value":49200},{"symbol":"hdfc","quantity":10,"price":2000,"value":20000}
+]}
